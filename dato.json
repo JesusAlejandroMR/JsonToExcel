@@ -1,0 +1,62 @@
+[
+    {
+        "factura": "001-002-000006238",
+        "PesoNeto": 18316.800000,
+        "PesoBruto": 20073.600000,
+        "IngresoMp": [
+            {
+                "barco": "B\/P AMADA ISABEL",
+                "Marea": "1",
+                "nComprobante": "SRP-DPI-2184-2022N ",
+                "nCaptura": "DPI-SPSRP5-2022-423 ",
+                "cantidad": 478301.00,
+                "fechaIngresoMP": "2022-02-24"
+            },
+            {
+                "barco": "B\/P AMADA ISABEL",
+                "Marea": "1",
+                "nComprobante": "SRP-DPI-2184-2022N ",
+                "nCaptura": "DPI-SPSRP5-2022-423 ",
+                "cantidad": 478301.00,
+                "fechaIngresoMP": "2022-02-24"
+            },
+            {
+                "barco": "B\/P AMADA ISABEL",
+                "Marea": "1",
+                "nComprobante": "SRP-DPI-2184-2022N ",
+                "nCaptura": "DPI-SPSRP5-2022-423 ",
+                "cantidad": 478301.00,
+                "fechaIngresoMP": "2022-02-24"
+            }
+        ],
+        "ConsumoMp": [
+            {
+                "MPUtilizada": 4030.00,
+                "especie": "SKIPJACK",
+                "Codigo": "PTAGA 20 4",
+                "fechaProduccion": "2022-05-19",
+                "pesoCarne": 1853.80,
+                "pesoNetoKG": 2438.00,
+                "descripcionProducto": "TUNA CHUNKS IN SUNFLOWER OIL – POUCH"
+            },
+            {
+                "MPUtilizada": 14035.00,
+                "especie": "SKIPJACK",
+                "Codigo": "PTAGA 21 2",
+                "fechaProduccion": "2022-05-19",
+                "pesoCarne": 6456.06,
+                "pesoNetoKG": 8490.60,
+                "descripcionProducto": "TUNA CHUNKS IN SUNFLOWER OIL – POUCH"
+            },
+            {
+                "MPUtilizada": 12213.00,
+                "especie": "SKIPJACK",
+                "Codigo": "PTAGA 20 5",
+                "fechaProduccion": "2022-05-19",
+                "pesoCarne": 5617.82,
+                "pesoNetoKG": 7388.20,
+                "descripcionProducto": "TUNA CHUNKS IN SUNFLOWER OIL – POUCH"
+            }
+        ]
+    }
+]
