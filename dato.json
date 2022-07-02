@@ -1,61 +1,69 @@
 [
     {
-        "factura": "001-002-000006238",
-        "PesoNeto": 18316.800000,
-        "PesoBruto": 20073.600000,
-        "IngresoMp": [
-            {
-                "barco": "B\/P AMADA ISABEL",
-                "Marea": "1",
-                "nComprobante": "SRP-DPI-2184-2022N ",
-                "nCaptura": "DPI-SPSRP5-2022-423 ",
-                "cantidad": 478301.00,
-                "fechaIngresoMP": "2022-02-24"
-            },
-            {
-                "barco": "B\/P AMADA ISABEL",
-                "Marea": "1",
-                "nComprobante": "SRP-DPI-2184-2022N ",
-                "nCaptura": "DPI-SPSRP5-2022-423 ",
-                "cantidad": 478301.00,
-                "fechaIngresoMP": "2022-02-24"
-            },
-            {
-                "barco": "B\/P AMADA ISABEL",
-                "Marea": "1",
-                "nComprobante": "SRP-DPI-2184-2022N ",
-                "nCaptura": "DPI-SPSRP5-2022-423 ",
-                "cantidad": 478301.00,
-                "fechaIngresoMP": "2022-02-24"
-            }
-        ],
+        "Codigo": 1,
+        "factura": "001-002-000005988",
+        "PesoNeto": 26002.500000,
+        "PesoBruto": 26552.500000,
         "ConsumoMp": [
             {
-                "MPUtilizada": 4030.00,
-                "especie": "SKIPJACK",
-                "Codigo": "PTAGA 20 4",
-                "fechaProduccion": "2022-05-19",
-                "pesoCarne": 1853.80,
-                "pesoNetoKG": 2438.00,
-                "descripcionProducto": "TUNA CHUNKS IN SUNFLOWER OIL – POUCH"
+                "barco": "B\/P JORGE MARIO",
+                "Marea": "2",
+                "nComprobante": "SRP-DPI-5621-2021N",
+                "nCaptura": "DPI-SPSRP5-2021-1070 ",
+                "cantidad": 287126.00,
+                "fechaIngresoMP": "2021-07-29",
+                "MPUtilizada": 24691.00,
+                "especie": "SJ",
+                "Codigo": "LASA50",
+                "fechaProduccion": "2021-12-13",
+                "pesoCarne": 11355.00,
+                "pesoNetoKG": 11355.00,
+                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
             },
             {
-                "MPUtilizada": 14035.00,
-                "especie": "SKIPJACK",
-                "Codigo": "PTAGA 21 2",
-                "fechaProduccion": "2022-05-19",
-                "pesoCarne": 6456.06,
-                "pesoNetoKG": 8490.60,
-                "descripcionProducto": "TUNA CHUNKS IN SUNFLOWER OIL – POUCH"
+                "barco": null,
+                "Marea": null,
+                "nComprobante": null,
+                "nCaptura": null,
+                "cantidad": null,
+                "fechaIngresoMP": null,
+                "MPUtilizada": 1678.00,
+                "especie": "SJ",
+                "Codigo": "LASA50",
+                "fechaProduccion": "2021-12-16",
+                "pesoCarne": 772.50,
+                "pesoNetoKG": 772.50,
+                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
             },
             {
-                "MPUtilizada": 12213.00,
-                "especie": "SKIPJACK",
-                "Codigo": "PTAGA 20 5",
-                "fechaProduccion": "2022-05-19",
-                "pesoCarne": 5617.82,
-                "pesoNetoKG": 7388.20,
-                "descripcionProducto": "TUNA CHUNKS IN SUNFLOWER OIL – POUCH"
+                "barco": null,
+                "Marea": null,
+                "nComprobante": null,
+                "nCaptura": null,
+                "cantidad": null,
+                "fechaIngresoMP": null,
+                "MPUtilizada": 19858.00,
+                "especie": "SJ",
+                "Codigo": "LASA51",
+                "fechaProduccion": "2021-12-16",
+                "pesoCarne": 9135.00,
+                "pesoNetoKG": 9135.00,
+                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
+            },
+            {
+                "barco": null,
+                "Marea": null,
+                "nComprobante": null,
+                "nCaptura": null,
+                "cantidad": null,
+                "fechaIngresoMP": null,
+                "MPUtilizada": 10304.00,
+                "especie": "SJ",
+                "Codigo": "LASA50",
+                "fechaProduccion": "2021-12-16",
+                "pesoCarne": 4740.00,
+                "pesoNetoKG": 4740.00,
+                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
             }
         ]
     }

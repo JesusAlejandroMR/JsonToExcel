@@ -1,0 +1,56 @@
+body{
+    background-color:azure;
+}
+
+#Cabecera {
+    background-color:#F6F7F7;
+    border-radius: 15px 15px 15px 15px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    -webkit-border-radius: 15px 15px 15px 15px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+#Cabecera #l1{
+    color: #001920;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+#Cabecera #l2 {
+    color:#001920;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+#Cabecera #l3{
+    color:#2ECB72;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+#Cabecera #loadJson{
+    font-size: 30px;
+    text-align: right;
+}
+
+#btnSaludo{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,155,1) 100%);
+}
+
+
+
+/* Elementos de diseño del DataTable*/
+#gridContainer sup {
+    font-size: 0.8em;
+    vertical-align: super;
+    line-height: 0;
+  }
+  
+  .long-title h3 {
+    font-family: 'Segoe UI Light', 'Helvetica Neue Light', 'Segoe UI', 'Helvetica Neue', 'Trebuchet MS', Verdana;
+    font-weight: 200;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
