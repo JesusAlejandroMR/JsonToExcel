@@ -1,24 +1,24 @@
 [
     {
         "Codigo": 1,
-        "factura": "001-002-000005988",
-        "PesoNeto": 26002.500000,
-        "PesoBruto": 26552.500000,
+        "factura": "001-002-0000000001",
+        "PesoNeto": 25008,
+        "PesoBruto": 26552,
         "ConsumoMp": [
             {
-                "barco": "B\/P JORGE MARIO",
+                "barco": "B\/P AMJR",
                 "Marea": "2",
-                "nComprobante": "SRP-DPI-5621-2021N",
-                "nCaptura": "DPI-SPSRP5-2021-1070 ",
-                "cantidad": 287126.00,
-                "fechaIngresoMP": "2021-07-29",
+                "nComprobante": "SRP-DPI-5341-205GGN",
+                "nCaptura": "DPI-343424-22342021-1023470 ",
+                "cantidad": 145072.00,
+                "fechaIngresoMP": "2022-07-01",
                 "MPUtilizada": 24691.00,
-                "especie": "SJ",
-                "Codigo": "LASA50",
-                "fechaProduccion": "2021-12-13",
-                "pesoCarne": 11355.00,
-                "pesoNetoKG": 11355.00,
-                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
+                "especie": "BY",
+                "Codigo": "LAS3A50",
+                "fechaProduccion": "2022-07-01",
+                "pesoCarne": 14507.00,
+                "pesoNetoKG": 14507.00,
+                "descripcionProducto": "CONTENEDOR DE PRODUCTOS"
             },
             {
                 "barco": null,
@@ -29,11 +29,11 @@
                 "fechaIngresoMP": null,
                 "MPUtilizada": 1678.00,
                 "especie": "SJ",
-                "Codigo": "LASA50",
-                "fechaProduccion": "2021-12-16",
+                "Codigo": "DS3EW2",
+                "fechaProduccion": "2022-07-01",
                 "pesoCarne": 772.50,
                 "pesoNetoKG": 772.50,
-                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
+                "descripcionProducto": "CONTENEDOR DE PRODUCTOS"
             },
             {
                 "barco": null,
@@ -44,26 +44,11 @@
                 "fechaIngresoMP": null,
                 "MPUtilizada": 19858.00,
                 "especie": "SJ",
-                "Codigo": "LASA51",
-                "fechaProduccion": "2021-12-16",
+                "Codigo": "WER23E",
+                "fechaProduccion": "2022-07-01",
                 "pesoCarne": 9135.00,
                 "pesoNetoKG": 9135.00,
-                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
-            },
-            {
-                "barco": null,
-                "Marea": null,
-                "nComprobante": null,
-                "nCaptura": null,
-                "cantidad": null,
-                "fechaIngresoMP": null,
-                "MPUtilizada": 10304.00,
-                "especie": "SJ",
-                "Codigo": "LASA50",
-                "fechaProduccion": "2021-12-16",
-                "pesoCarne": 4740.00,
-                "pesoNetoKG": 4740.00,
-                "descripcionProducto": "LOMOS DE ATUN PRECOCIDOS Y CONGELADOS"
+                "descripcionProducto": "CONTENEDOR DE PRODUCTOS"
             }
         ]
     }
